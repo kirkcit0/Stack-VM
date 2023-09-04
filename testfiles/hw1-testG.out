@@ -1,0 +1,11 @@
+Addr  OP    M    
+0     LIT   -5   
+1     RTN   0    
+Tracing ...
+PC: 0 BP: 0 SP: 0
+stack: 
+==> addr: 0     LIT   -5   
+PC: 1 BP: 0 SP: 1
+stack: S[0]: -5 
+==> addr: 1     RTN   0    
+Trying to pop an empty stack!
